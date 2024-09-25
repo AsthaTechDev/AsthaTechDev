@@ -5,19 +5,20 @@ Config files for my GitHub profile.
 - Managed to attempt 3 questions due to time constraints.
 - Feeling motivated and ready for more!
 
-### Questions Attempted:
+Questions Attempted:
 1. **Two Sum**
 2. **Move Zeroes**
 3. **Remove duplicates from sorted array**
 
-## Progress
+Progress
 - Total Days: 1
 - Questions Attempted: 3
 
 ---
 
 Stay tuned for more updates as I progress! 💪🚀
-Day 2 - [25-09-2024]
+
+## Day 2 - [25-09-2024]
 Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
 Focused on solving:
 Three Sum Problem
