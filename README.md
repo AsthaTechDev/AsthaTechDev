@@ -17,3 +17,13 @@ Config files for my GitHub profile.
 ---
 
 Stay tuned for more updates as I progress! 💪🚀
+Day 2 - [25-09-2024]
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+Focused on solving:
+Three Sum Problem
+Chocolate Distribution Problem
+Progress was steady, and I feel more comfortable with array manipulation and sliding window techniques.
+Progress
+Total Days: 2
+Questions Attempted: 5
+Looking forward to more challenges and improving my problem-solving skills! 💪🚀
