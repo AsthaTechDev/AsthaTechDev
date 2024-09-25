@@ -23,7 +23,7 @@ Stay tuned for more updates as I progress! 💪🚀
 Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
 
 Focused on solving:
-Three Sum Problem
+Three Sum Problem and
 Chocolate Distribution Problem
 Progress was steady, and I feel more comfortable with array manipulation and sliding window techniques.
 
