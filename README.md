@@ -31,3 +31,11 @@ Progress was steady, and I feel more comfortable with array manipulation and sli
 Total Days: 2
 Questions Attempted: 5
 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
+## Day 3 - [26-09-2024]
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Buy and sell stocks prolem.
+
+Progress
+Total Days: 3 Questions Attempted: 6 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
