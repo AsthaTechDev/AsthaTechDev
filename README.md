@@ -33,6 +33,7 @@ Questions Attempted: 5
 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
 ## Day 3 - [26-09-2024]
+
 Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
 
 Focused on solving: Buy and sell stocks prolem.
@@ -52,3 +53,13 @@ Takeaways:
 Improved understanding of how to manipulate arrays in-place.
 Strengthened skills in applying sorting algorithms like Counting Sort to real-world coding challenges.
 Keep up the momentum! Let me know if you'd like to dive into other algorithms or problems.
+
+## Day 5 - [28-09-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Spiral matrix and majority element.
+
+Progress
+Total Days: 5, Questions Attempted: 9 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
