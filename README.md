@@ -63,3 +63,12 @@ Focused on solving: Spiral matrix and majority element.
 Progress
 Total Days: 5, Questions Attempted: 9 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
+## Day 6 - [29-09-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Valid Parenthesis.
+
+Progress
+Total Days: 6, Questions Attempted: 10 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
