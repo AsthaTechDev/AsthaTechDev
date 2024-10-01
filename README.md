@@ -81,4 +81,13 @@ Focused on solving: find index of the first occurence in a string
 Progress
 Total Days: 7, Questions Attempted: 11 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
+## Day 8 - [01-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: subarray sum equals k
+
+Progress
+Total Days: 8, Questions Attempted: 12 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
 
