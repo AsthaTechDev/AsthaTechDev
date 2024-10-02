@@ -90,4 +90,13 @@ Focused on solving: subarray sum equals k
 Progress
 Total Days: 8, Questions Attempted: 12 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
+## Day 9 - [02-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: 4 sum
+
+Progress
+Total Days: 9, Questions Attempted: 13 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
 
