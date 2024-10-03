@@ -100,3 +100,13 @@ Progress
 Total Days: 9, Questions Attempted: 13 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
 
+## Day 10 - [03-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Merge sorted array
+
+Progress
+Total Days: 10, Questions Attempted: 14 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
+
