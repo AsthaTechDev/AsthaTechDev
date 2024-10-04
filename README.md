@@ -110,3 +110,13 @@ Progress
 Total Days: 10, Questions Attempted: 14 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
 
+## Day 11 - [04-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Add binary and Longest common prefix
+
+Progress
+Total Days: 11, Questions Attempted: 16 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
+
