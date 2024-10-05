@@ -119,4 +119,13 @@ Focused on solving: Add binary and Longest common prefix
 Progress
 Total Days: 11, Questions Attempted: 16 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
+## Day 12 - [05-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Maximum product of three numbers
+
+Progress
+Total Days: 12, Questions Attempted: 17 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
 
