@@ -128,4 +128,13 @@ Focused on solving: Maximum product of three numbers
 Progress
 Total Days: 12, Questions Attempted: 17 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
+## Day 13 - [06-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: All unique permutations of an array
+
+Progress
+Total Days: 13, Questions Attempted: 18 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
 
