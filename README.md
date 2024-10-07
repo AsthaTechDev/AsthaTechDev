@@ -137,4 +137,11 @@ Focused on solving: All unique permutations of an array
 Progress
 Total Days: 13, Questions Attempted: 18 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
+## Day 14 - [07-10-2024]
 
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Largest rectangle in histogram
+
+Progress
+Total Days: 14, Questions Attempted: 19 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
