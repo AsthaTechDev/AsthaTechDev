@@ -145,3 +145,12 @@ Focused on solving: Largest rectangle in histogram
 
 Progress
 Total Days: 14, Questions Attempted: 19 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
+## Day 15 - [08-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Product array puzzle
+
+Progress
+Total Days: 15, Questions Attempted: 20 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
