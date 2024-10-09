@@ -154,3 +154,12 @@ Focused on solving: Product array puzzle
 
 Progress
 Total Days: 15, Questions Attempted: 20 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
+## Day 16 - [09-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Reverse a linked list
+
+Progress
+Total Days: 16, Questions Attempted: 21 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
