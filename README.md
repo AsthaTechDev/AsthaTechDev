@@ -163,3 +163,13 @@ Focused on solving: Reverse a linked list
 
 Progress
 Total Days: 16, Questions Attempted: 21 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
+## Day 17 - [10-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Next Greater Element-I
+
+Progress
+Total Days: 17, Questions Attempted: 22 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
