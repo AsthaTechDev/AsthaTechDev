@@ -182,3 +182,12 @@ Focused on solving: Print all the duplicate characters in a string.
 Progress
 Total Days: 18, Questions Attempted: 23 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
+## Day 19 - [12-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Valid Palindrome - II
+
+Progress
+Total Days: 19, Questions Attempted: 24 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
