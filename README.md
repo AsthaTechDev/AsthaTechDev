@@ -191,3 +191,12 @@ Focused on solving: Valid Palindrome - II
 Progress
 Total Days: 19, Questions Attempted: 24 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
+## Day 20 - [13-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Excel sheet column title
+
+Progress
+Total Days: 20, Questions Attempted: 25 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
+
