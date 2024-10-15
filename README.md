@@ -209,5 +209,12 @@ Focused on solving: Middle of the linked list
 Progress
 Total Days: 21, Questions Attempted: 26 Looking forward to more challenges and improving my problem-solving skills! 💪🚀
 
+## Day 22 - [15-10-2024]
 
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Linked list cycle
+
+Progress
+Total Days: 22, Questions Attempted: 27
 
