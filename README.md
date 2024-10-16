@@ -218,3 +218,11 @@ Focused on solving: Linked list cycle
 Progress
 Total Days: 22, Questions Attempted: 27
 
+## Day 23 - [16-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Remove linked list elements
+
+Progress
+Total Days: 23, Questions Attempted: 28
