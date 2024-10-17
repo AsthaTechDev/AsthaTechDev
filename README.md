@@ -1,4 +1,4 @@
-# -CrackYourInternship
+2# -CrackYourInternship
 Config files for my GitHub profile.
 ## Day 1 - [24-09-2024]
 - Started the #CrackYourInternship challenge with Arsh Goyal's DSA sheet.
@@ -226,3 +226,12 @@ Focused on solving: Remove linked list elements
 
 Progress
 Total Days: 23, Questions Attempted: 28
+
+## Day 24 - [17-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Backspace String Compare
+
+Progress
+Total Days: 24, Questions Attempted: 29
