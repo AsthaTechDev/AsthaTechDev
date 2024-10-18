@@ -235,3 +235,12 @@ Focused on solving: Backspace String Compare
 
 Progress
 Total Days: 24, Questions Attempted: 29
+
+## Day 25 - [18-10-2024]
+
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Group Anagrams
+
+Progress
+Total Days: 25, Questions Attempted: 30
