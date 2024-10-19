@@ -244,3 +244,11 @@ Focused on solving: Group Anagrams
 
 Progress
 Total Days: 25, Questions Attempted: 30
+
+## Day 26 - [19-10-2024]
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: remove duplicates from sorted list
+
+Progress
+Total Days: 26, Questions Attempted: 31
