@@ -252,3 +252,12 @@ Focused on solving: remove duplicates from sorted list
 
 Progress
 Total Days: 26, Questions Attempted: 31
+
+## Day 27 - [20-10-2024]
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Find duplicate number 2
+
+Progress
+Total Days: 27, Questions Attempted: 32
+
