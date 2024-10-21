@@ -261,3 +261,10 @@ Focused on solving: Find duplicate number
 Progress
 Total Days: 27, Questions Attempted: 32
 
+## Day 28 - [21-10-2024]
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Subarray sums divisible by k
+
+Progress
+Total Days: 28, Questions Attempted: 33
