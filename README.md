@@ -268,3 +268,11 @@ Focused on solving: Subarray sums divisible by k
 
 Progress
 Total Days: 28, Questions Attempted: 33
+
+## Day 29 - [22-10-2024]
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Evaluation of postfix expression
+
+Progress
+Total Days: 29, Questions Attempted: 34
