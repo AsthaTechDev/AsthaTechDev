@@ -276,3 +276,11 @@ Focused on solving: Evaluation of postfix expression
 
 Progress
 Total Days: 29, Questions Attempted: 34
+
+## Day 30- [23-10-2024]
+Continued with the #CrackYourInternship challenge and tackled more questions from Arsh Goyal's DSA sheet.
+
+Focused on solving: Longest repeating char replacement
+
+Progress
+Total Days: 30, Questions Attempted: 35
