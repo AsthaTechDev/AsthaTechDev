@@ -1,5 +1,4 @@
-2# -CrackYourInternship
-Config files for my GitHub profile.
+
 ## Day 1 - [24-09-2024]
 - Started the #CrackYourInternship challenge with Arsh Goyal's DSA sheet.
 - Managed to attempt 3 questions due to time constraints.
